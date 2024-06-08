@@ -1,1 +1,2 @@
 This is just for git Demo purpose.
+This is new line but conflict will be there while pushing because another guy already updated secind line
